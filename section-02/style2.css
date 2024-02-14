@@ -1,0 +1,44 @@
+body{
+    position: relative;
+    color:#fff;
+    background-color:#000;
+}
+a{
+    text-decoration: none;
+    color:#fff;
+}
+ul{
+    list-style: none;
+}
+ /* style for main body */
+ section{
+    position:relative;
+    height:100vh;
+    border:2px solid #fff;
+    background-position: center center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding:0;
+    margin:0;
+  }
+  /* style for what question */
+  .what-defination{
+    position: relative;
+    top:65px;
+    left:70px;
+    width:90%;
+    height:80vh;
+    border:2px solid transparent;
+    border-radius: 25px;
+    background-color: #fff;
+    color:#000;
+  }
+  .defination{
+    position:relative;
+    top:20px;
+    left:10px;
+    width:750px;
+    height:90%;
+    border:2px solid #000;
+    border-radius: 25px;;
+  }
